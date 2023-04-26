@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 added file7.txt in master
 
+added file7.txt in feature
+>>>>>>> feature
